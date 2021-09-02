@@ -235,6 +235,10 @@ html {
     cursor: pointer;
 }
 
+.section-do-item:hover .section-do-item-description {
+    color: white;
+}
+
 .section-do-item:hover .section-do-item-heading {
     color: white;
 }
