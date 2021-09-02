@@ -115,13 +115,14 @@ html {
     margin: auto;
 }
 
-.nav-item {
+.nav-link {
     font-size: 15px;
     line-height: 1;
+    color: #1c1c1c;
 }
 
-.nav-link {
-    color: #1c1c1c;
+.nav-link:hover {
+    color: #3172b9;
 }
 
 .nav-item.is-active .nav-link {
@@ -226,6 +227,20 @@ html {
 
 .section-do-item:not(:last-child) {
     margin-right: 30px;
+}
+
+.section-do-item:hover {
+    background-color: #3172b9;
+    color: white;
+    cursor: pointer;
+}
+
+.section-do-item:hover .section-do-item-heading {
+    color: white;
+}
+
+.section-do-item:hover .section-do-icon path {
+    fill: white;
 }
 
 .section-do-item-heading {
@@ -389,7 +404,7 @@ html {
 
 .form-description {
     font-size: 16px;
-    line-height: 21;
+    line-height: 2;
     text-align: center;
     color: #787878;
 }
