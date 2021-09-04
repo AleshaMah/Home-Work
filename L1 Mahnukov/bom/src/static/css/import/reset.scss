@@ -1,0 +1,60 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+blockquote,
+body,
+dd,
+dl,
+figcaption,
+figure,
+h1,
+h2,
+h3,
+h4,
+li,
+ol,
+p,
+ul {
+    margin: 0;
+}
+
+body {
+    font-family: 'HelveticaNeue';
+    font-weight: 400;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+ol,
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    font-family: inherit;
+    text-decoration: none;
+    color: inherit;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+}
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit;
+}
