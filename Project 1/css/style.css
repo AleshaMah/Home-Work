@@ -1,4 +1,5 @@
 /* fonts */
+
 @font-face {
     font-family: 'Muller';
     src: url('../fonts/MullerRegular.woff2') format('woff2'),
@@ -26,7 +27,8 @@
     font-style: normal;
   }
   
-  /* common specification */
+  /* all  */
+
   * {
     box-sizing: border-box;
   }
@@ -112,6 +114,7 @@
   }
   
   /* heder */
+
   .header__top {
     display: flex;
     padding-top: 30px;
@@ -181,6 +184,7 @@
   }
   
   /* special */
+
   .special {
     padding-top: 70px;
     padding-bottom: 30px;
@@ -261,6 +265,7 @@
   }
   
   /* about */
+
   .about {
     padding-top: 40px;
     padding-bottom: 30px;
@@ -277,8 +282,9 @@
     color: var(--dark-black);
   }
   
-  /* srvice */
-  .srvice {
+  /* service */
+
+  .service {
     padding-top: 30px;
     padding-bottom: 30px;
   }
@@ -326,6 +332,7 @@
   }
   
   /* advantages */
+
   .advantages {
     padding-top: 41px;
     padding-bottom: 30px;
@@ -356,6 +363,7 @@
   }
   
   /* accommodation */
+
   .accommodation {
     padding-top: 2px;
     padding-bottom: 30px;
@@ -449,6 +457,7 @@
   }
   
   /* tour */
+  
   .tour {
     padding-top: 17px;
     padding-bottom: 30px;
