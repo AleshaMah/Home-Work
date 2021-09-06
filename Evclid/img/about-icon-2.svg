@@ -93,11 +93,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89810430/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTgxMDQzMCwicyI6NzQ1MzAyNzkwLCJjIjoyODU4ODgyMDk4LCJ0IjoxNjMwOTMxNjA0fQ==--4ab6f1648292a765a95c8b1f03abb74557b165310aa8ca7b8ccb43d4c8d27035" data-refresh-url="/_alive" data-session-id="759051703890aee6b4b2ddc6fce866a43d763b4c22c1cee619451242aec381f9">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/89810430/ws?session=eyJ2IjoiVjMiLCJ1Ijo4OTgxMDQzMCwicyI6NzQ1MzAyNzkwLCJjIjoyNDM5NzM4OTAsInQiOjE2MzA5MzM4ODZ9--f264252204a018351c278ed27cd4473d711a99b5fcb747eced441ef2e16c01b5" data-refresh-url="/_alive" data-session-id="759051703890aee6b4b2ddc6fce866a43d763b4c22c1cee619451242aec381f9">
     <link rel="shared-web-socket-src" href="/socket-worker-7c2abeb0.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="8667:A595:2C2FC5:2EC81A:61360A8D" data-pjax-transient="true" /><meta name="html-safe-nonce" content="5f042d9795b2a7c0ccf90bbde0c49c9300305bd86b2a4e540f7f96554c5cff07" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9UZWVtUHJlc2VudHMvSG9tZVdvcmtTa2lsbGJveC90cmVlL21haW4vdGFzay03JTIzMy9pbWciLCJyZXF1ZXN0X2lkIjoiODY2NzpBNTk1OjJDMkZDNToyRUM4MUE6NjEzNjBBOEQiLCJ2aXNpdG9yX2lkIjoiNTEwODg1ODQ1NDg1MTE4ODgyNiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="41195e359ad006cc9154235fabbee10e82b2bc2d983fc91c1fe4547b54e50521" data-pjax-transient="true" />
+  <meta name="request-id" content="875B:D363:54AFB7:571ABE:61361379" data-pjax-transient="true" /><meta name="html-safe-nonce" content="5f042d9795b2a7c0ccf90bbde0c49c9300305bd86b2a4e540f7f96554c5cff07" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9UZWVtUHJlc2VudHMvSG9tZVdvcmtTa2lsbGJveC90cmVlL21haW4vdGFzay03JTIzOS9pbWciLCJyZXF1ZXN0X2lkIjoiODc1QjpEMzYzOjU0QUZCNzo1NzFBQkU6NjEzNjEzNzkiLCJ2aXNpdG9yX2lkIjoiNTEwODg1ODQ1NDg1MTE4ODgyNiIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="2e52dee44f777fa28c56a4257ac94294368bab511d8d2ddd6583d59e1946be85" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:353364053" data-pjax-transient>
 
@@ -136,7 +136,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MWFlMzBmMzU5ZDg5MDI4NTdjODZjYjMyNmRlZGY1YWEyMDFmOTY1ZDc3ZmExNmNlZGZlNGE3NWZjY2FlNWNkYXx7InJlbW90ZV9hZGRyZXNzIjoiMzcuMjE0LjI3LjEyMSIsInJlcXVlc3RfaWQiOiI4NjY3OkE1OTU6MkMyRkM1OjJFQzgxQTo2MTM2MEE4RCIsInRpbWVzdGFtcCI6MTYzMDkzMTYwNCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="OGRhYWU3MTBmMzViMjk3NjI5MTAxNWY0MDBlMWRiYTU4MGEzZjIwYmRiYzM0ODJkYjkzN2M0MjE5MmM0NDRhNnx7InJlbW90ZV9hZGRyZXNzIjoiMzcuMjE0LjI3LjEyMSIsInJlcXVlc3RfaWQiOiI4NzVCOkQzNjM6NTRBRkI3OjU3MUFCRTo2MTM2MTM3OSIsInRpbWVzdGFtcCI6MTYzMDkzMzg4NiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="BRANCH_PROTECTION_RULE_WEBHOOK,MARKETPLACE_PENDING_INSTALLATIONS,GITHUB_TOKEN_PERMISSION,PJAX_RELOAD_STATS,DEPRECATE_PJAX_PARAM_JS">
 
@@ -153,7 +153,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -195,7 +195,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="ee8f2db5975e7e8d1badb66620344c39c656c9eaf25220d49cd831e4a2ceb9f8"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="0d8b616f91729f2278656b30057b11ccfbed7bc3dd426ebe78dcddfe41234678"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -245,7 +245,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="8t84Z8eTLluTLdUyy1akJ1LtPKJbsAuCf3KGAmbcOw4XtgpewGgmyuZnMgQoisaSiYee9DTrSYlKGYOhI+tOGw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="/vqGoEFMOa+AKVSNYeObEK1WUPbtWCKmijcI4B9nZf4bk7SZRrcxPvVjs7uCP/mldjzyoIIDYK2/XA1DWlAQ6w==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -425,7 +425,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;AleshaMah&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="2b6019e930a58a87ed2eedf25a2893f9566160816acb6e853e4c4aeae7623178" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;AleshaMah&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="a4e35fab4843fd28900b5fdb4b582536591ed6bf40c9d6540a296469d00d4b15" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -434,12 +434,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/89810430?s=40&amp;v=4" width="20" height="20" alt="@AleshaMah" />
       AleshaMah
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oUlMqCaeODxIiJUXKhow02WZAGaffrkhPb0AxXJio5IpAxpZ5VORTVyckwPNtbycvuDTTfxmaQ+feVjNh64/ug==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="syffEO0YyI2PzQLKMYfWQ6+ftZmf0BYc1Cf3M9IF/3Y7bYnhLtVh/JvZBN7WKFoMdOZmsvzIxjJ24687J8ljXg==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="1f7b774e3f75ef3f266d74ea89c497200b10805854af1b5ee7b956f8ac2f885f"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="c9a495b196ced3f0a9194dc681fa3e046c567eb4e62c8358dff2a1233fb3fa31"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -456,7 +456,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="ee8f2db5975e7e8d1badb66620344c39c656c9eaf25220d49cd831e4a2ceb9f8"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="0d8b616f91729f2278656b30057b11ccfbed7bc3dd426ebe78dcddfe41234678"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -472,7 +472,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODk4MTA0MzAiLCJ0IjoxNjMwOTMxNjA0fQ==--eebe8cb19fe05f47ce762129675c7b7457779e369dcb61faef6be04a4195f68d">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODk4MTA0MzAiLCJ0IjoxNjMwOTMzODg2fQ==--7bd6c0d8287731071ab9fa693d1dec573416050326bb9d58e427341b9e067eb6">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -495,7 +495,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="34aa16e6e6d566b43f629a4c6addfea9cc79d759509f41a7bb7d9f2eb73dd046"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="e5ce197c2cf949815ac75c6d7fb9bfde8a381d854ee3561369d2a2790964b6dc"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -533,7 +533,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="bfa7a78ffb3d7bee0668e024678b25ee69a4f97b74a56f3b436594b4b42915fb"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="be7d60e3d8bf02511f2be0216e012a633a69880715b661fb6f0eca27b34ebb30"
   >
     <img src="https://avatars.githubusercontent.com/u/89810430?s=60&amp;v=4" alt="@AleshaMah" size="20" height="20" width="20" data-view-component="true" class="avatar-user avatar avatar-small"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -647,7 +647,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="5bdf7fcb501bdf0bbd0d423ccc4f8ae5fdc910a2d20b442508972e4a5bd18bd4" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="c55828f46e53137b9e9941dba772e27d01f30fd0cf2e9bcd2c5c5337216cc6cd" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -699,7 +699,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="+zNJkrvOwCwrv1EzYgUMNB8Dm0PZ+OA4bzX+i9Psb9TTI8yGvqmaCz0ysOcM7sxITvGZQnGv3nTXPBWlwaUnEA==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pe/RyXo1ohzSnW8xYmpc2lrbrj2yhX5YnxEpIxG4WHON/1Tdf1L4O8QQjuUMgZymCymsPBrSQBQnGMINA/EQtw==" />
 
                 <input type="hidden" name="repository_id" value="353364053">
 
@@ -822,7 +822,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mXcSBW9NUUZkW07t0lQ3HcshwlwkDMeMFTRhaPQuTXaxZ5cRaioLYXLWrzm8v/dhmtPAXYxb+cCtPYpG5mcFsg==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lYUcdZaAxjMVc9iE8wx7xNVDRpdTuKRWSsTGqCWkFiq9lZlhk+ecFAP+OVCd57u4hLFElvvvmhryzS2GN+1e7g==" />
 
               <input type="hidden" name="repository_id" value="353364053">
 
@@ -981,9 +981,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/TeemPresents/HomeWorkSkillbox/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PNKZmJDkzgGkbQCrumOuvNkaIPzmm8TTxrMW47PJVDyITVVTHMrp4GvT0C+9u6JSm9mt+bTpZTju4pDG4ApkyA==" />
+    <form class="starred js-social-form" action="/TeemPresents/HomeWorkSkillbox/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KFMZn1n7AstjmOiskSX0cQe6Lty7m7gBaFIHgZpUQSmczNVU1dUlKqwmOCiW/fifRXmj2enpGepAA4GkyZdx3Q==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar TeemPresents/HomeWorkSkillbox" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="027b08b5e37b81758e260f3d8ea94f439e976feac2746b67b11013d0fd3650f6" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar TeemPresents/HomeWorkSkillbox" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="11023691afda05b9ace9029d1f28fd9f2a14c90785964d775e108bfefdda6102" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
@@ -993,9 +993,9 @@
            4
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/TeemPresents/HomeWorkSkillbox/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DOXhcWrmDhmzcMTuMQibbuYCgI3AZB4i2qjXOCi+iUcOoW+8Xjjt/lHw4CfV4yVAX4dtBJ54Vlf46yBuXEFeTQ==" />
+    <form class="unstarred js-social-form" action="/TeemPresents/HomeWorkSkillbox/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="anRKWHPSr4VA3T9w5frBtM6gy5ukZAX395iJK4sKD9poMMSVRwxMYqJdG7kBEX+adyUmEvp4TYLV2359//XY0A==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star TeemPresents/HomeWorkSkillbox" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="9bd970b517b9e7a1faac35b9233e03d8bfcad32ef52b645aec9900b3d677cb7b" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star TeemPresents/HomeWorkSkillbox" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="b31bd101a055f2b5e59415e01496ec0f2f476b42921a3f042182ec3f7900202c" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
@@ -1009,8 +1009,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/TeemPresents/HomeWorkSkillbox/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mHNX+OAwBAuCZTtk2ZzwYb21csOCu3KhOyjbkVCa0lPVhABqQ6y4MApUcCBFa0dlvAZFYB99x/zDFvKdUvxM4g==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="47f2f5f79e8e56f270f89f456a5572a1895328fb14e624a947c9bb258706dfe0" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of TeemPresents/HomeWorkSkillbox to your account" aria-label="Fork your own copy of TeemPresents/HomeWorkSkillbox to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/TeemPresents/HomeWorkSkillbox/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kS9yPJbQYPbO1vbQEaQFCMfNunnwrfsmRpRjKsPKpPzc2CWuNUzczUbnvZSNU7IMxn6N2m1rTnu+qkomwaw6TQ==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="cd69933d39249ba2ed64d6cb230076ebe5520fd205eaf00b0fe406fc36abecfe" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of TeemPresents/HomeWorkSkillbox to your account" aria-label="Fork your own copy of TeemPresents/HomeWorkSkillbox to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
                 Fork
@@ -1188,9 +1188,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/TeemPresents/HomeWorkSkillbox/blob/edadb320bed27ea649a29dad2be3cff207ee21ec/task-7%233/img/about-icon-2.svg">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/TeemPresents/HomeWorkSkillbox/blob/edadb320bed27ea649a29dad2be3cff207ee21ec/task-7%239/img/about-icon-2.svg">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:bb2a19cd9be0429960a2cbbcb3bc73dee4851586b26a720bca50a420e8e2523a -->
+    <!-- blob contrib key: blob_contributors:v22:d3ef4ea42584031762ffd38e7e06db8e333612ae8d66482a42fa7989d044f8f2 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1275,7 +1275,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/TeemPresents/HomeWorkSkillbox/blob/{{ urlEncodedRefName }}/task-7%233/img/about-icon-2.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/TeemPresents/HomeWorkSkillbox/blob/{{ urlEncodedRefName }}/task-7%239/img/about-icon-2.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1315,7 +1315,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/TeemPresents/HomeWorkSkillbox/blob/{{ urlEncodedRefName }}/task-7%233/img/about-icon-2.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/TeemPresents/HomeWorkSkillbox/blob/{{ urlEncodedRefName }}/task-7%239/img/about-icon-2.svg" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1346,7 +1346,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/TeemPresents/HomeWorkSkillbox"><span>HomeWorkSkillbox</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/TeemPresents/HomeWorkSkillbox/tree/main/task-7%233"><span>task-7#3</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/TeemPresents/HomeWorkSkillbox/tree/main/task-7%233/img"><span>img</span></a></span><span class="separator">/</span><strong class="final-path">about-icon-2.svg</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/TeemPresents/HomeWorkSkillbox"><span>HomeWorkSkillbox</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/TeemPresents/HomeWorkSkillbox/tree/main/task-7%239"><span>task-7#9</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/TeemPresents/HomeWorkSkillbox/tree/main/task-7%239/img"><span>img</span></a></span><span class="separator">/</span><strong class="final-path">about-icon-2.svg</strong>
       </h2>
       <a href="/TeemPresents/HomeWorkSkillbox/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1367,7 +1367,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="d27ae84d2edaa1480aa27ad152224d92f9f2c3de323c8b47b94a0ee508fd570c" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/TeemPresents/HomeWorkSkillbox/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:353364053,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="ce20f9edd6ea440901376d9446846e9542e256ea0573f8a7b240790bb3214293" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/TeemPresents/HomeWorkSkillbox/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1385,13 +1385,13 @@
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="task-7#3/img/about-icon-2.svg" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="task-7#9/img/about-icon-2.svg" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/TeemPresents/HomeWorkSkillbox/blob/edadb320bed27ea649a29dad2be3cff207ee21ec/task-7%233/img/about-icon-2.svg" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/TeemPresents/HomeWorkSkillbox/blob/edadb320bed27ea649a29dad2be3cff207ee21ec/task-7%239/img/about-icon-2.svg" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1406,7 +1406,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/TeemPresents/HomeWorkSkillbox/contributors/main/task-7%233/img/about-icon-2.svg" class="commit-loader">
+      <include-fragment src="/TeemPresents/HomeWorkSkillbox/contributors/main/task-7%239/img/about-icon-2.svg" class="commit-loader">
         <div class="Box-header hx_commit-tease d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1449,13 +1449,13 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       <div class="BtnGroup">
         <a class="btn btn-sm BtnGroup-item tooltipped tooltipped tooltipped-n source "
-          href="/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg?short_path=3615bf5" aria-label="Display the source blob">
+          href="/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg?short_path=3615bf5" aria-label="Display the source blob">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
         </a>
         <a class="btn btn-sm BtnGroup-item tooltipped tooltipped-n rendered selected"
-          href="/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg" aria-label="Display the rendered blob">
+          href="/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg" aria-label="Display the rendered blob">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
 </svg>
@@ -1463,13 +1463,13 @@
       </div>
 
     <div class="BtnGroup">
-      <a href="/TeemPresents/HomeWorkSkillbox/raw/main/task-7%233/img/about-icon-2.svg" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/TeemPresents/HomeWorkSkillbox/raw/main/task-7%239/img/about-icon-2.svg" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/TeemPresents/HomeWorkSkillbox/blame/main/task-7%233/img/about-icon-2.svg" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/TeemPresents/HomeWorkSkillbox/blame/main/task-7%239/img/about-icon-2.svg" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1480,7 +1480,7 @@
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/TeemPresents/HomeWorkSkillbox?branch=main&amp;filepath=task-7%233%2Fimg%2Fabout-icon-2.svg"
+             href="x-github-client://openRepo/https://github.com/TeemPresents/HomeWorkSkillbox?branch=main&amp;filepath=task-7%239%2Fimg%2Fabout-icon-2.svg"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -1488,7 +1488,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/TeemPresents/HomeWorkSkillbox/edit/main/task-7%233/img/about-icon-2.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1n8zMBhx4+bw47c00FI/j6oES0ieI9TDlyTfdpN09Es6tPHtVpl+0g4H0DAcoEY62VJXzVnrPwkk0Y7CqIQwgQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/TeemPresents/HomeWorkSkillbox/edit/main/task-7%239/img/about-icon-2.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Yzp8wT7h76N30j7/y+/s2RL6qRdE40x871voxzJ2/UiRj4llXS6K2021g9jrgrjn96RpYVJiRUwhCvUwNEw6oQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -1496,7 +1496,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/TeemPresents/HomeWorkSkillbox/delete/main/task-7%233/img/about-icon-2.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AFJXIZhd4s7taevLSBFMAyWCrSPOA+qASi4Er0Yyv1pYL3A31pt05Mrp3gVGOi4zA5Y86YTAC6RSSMErpC03EQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/TeemPresents/HomeWorkSkillbox/delete/main/task-7%239/img/about-icon-2.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dkY1AXrXKS0s6d83VBgW06KvC0pAl5NsoZeQphde2PymHpQdFYAEM5PwLL+CGxDLoMTqyIK6GnVTfX7oqjpSoQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1518,28 +1518,28 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/TeemPresents/HomeWorkSkillbox?branch=main&amp;filepath=task-7%233%2Fimg%2Fabout-icon-2.svg"
+                   href="x-github-client://openRepo/https://github.com/TeemPresents/HomeWorkSkillbox?branch=main&amp;filepath=task-7%239%2Fimg%2Fabout-icon-2.svg"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/TeemPresents/HomeWorkSkillbox/raw/main/task-7%233/img/about-icon-2.svg">
+            <a class="dropdown-item" href="/TeemPresents/HomeWorkSkillbox/raw/main/task-7%239/img/about-icon-2.svg">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/TeemPresents/HomeWorkSkillbox/blame/main/task-7%233/img/about-icon-2.svg">
+              <a class="dropdown-item" href="/TeemPresents/HomeWorkSkillbox/blame/main/task-7%239/img/about-icon-2.svg">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/TeemPresents/HomeWorkSkillbox/edit/main/task-7%233/img/about-icon-2.svg">Edit file</a>
+                <a class="dropdown-item" href="/TeemPresents/HomeWorkSkillbox/edit/main/task-7%239/img/about-icon-2.svg">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/TeemPresents/HomeWorkSkillbox/delete/main/task-7%233/img/about-icon-2.svg">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/TeemPresents/HomeWorkSkillbox/delete/main/task-7%239/img/about-icon-2.svg">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1553,17 +1553,17 @@
       
   <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target  "
-      data-identity="870adab8-0fbb-46bd-a40f-762cef1574dc"
+      data-identity="c299b152-124c-45e9-a770-beba8e4bb847"
       data-host="https://viewscreen.githubusercontent.com"
       data-type="svg">
       <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="64" height="64" viewBox="0 0 16 16" fill="none" data-view-component="true" class="octospinner mx-auto anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
   <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
-      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg">Reload?</a></div>
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg">Reload?</a></div>
       <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
-      <iframe class="render-viewer " src="https://viewscreen.githubusercontent.com/view/svg?browser=chrome&amp;color_mode=auto&amp;commit=edadb320bed27ea649a29dad2be3cff207ee21ec&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f5465656d50726573656e74732f486f6d65576f726b536b696c6c626f782f656461646233323062656432376561363439613239646164326265336366663230376565323165632f7461736b2d37253233332f696d672f61626f75742d69636f6e2d322e737667&amp;logged_in=true&amp;nwo=TeemPresents%2FHomeWorkSkillbox&amp;path=task-7%233%2Fimg%2Fabout-icon-2.svg&amp;platform=mac&amp;repository_id=353364053&amp;repository_type=Repository&amp;version=92#870adab8-0fbb-46bd-a40f-762cef1574dc" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
+      <iframe class="render-viewer " src="https://viewscreen.githubusercontent.com/view/svg?browser=chrome&amp;color_mode=auto&amp;commit=edadb320bed27ea649a29dad2be3cff207ee21ec&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f5465656d50726573656e74732f486f6d65576f726b536b696c6c626f782f656461646233323062656432376561363439613239646164326265336366663230376565323165632f7461736b2d37253233392f696d672f61626f75742d69636f6e2d322e737667&amp;logged_in=true&amp;nwo=TeemPresents%2FHomeWorkSkillbox&amp;path=task-7%239%2Fimg%2Fabout-icon-2.svg&amp;platform=mac&amp;repository_id=353364053&amp;repository_type=Repository&amp;version=92#c299b152-124c-45e9-a770-beba8e4bb847" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
           Viewer requires iframe.
       </iframe>
     </div>
@@ -1608,10 +1608,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="1337ccf7ed55c1695efa3d6f65c9b1fa436a993383f22b371898a81d4cd1e821">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="df14d7ba48d9a3e2421970cd3902c0d65f791e3005d33610d49d0f8849b63529">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="9ecd0f3b12687a935f89f132b6434618d0a02cc903581f204730ffd02363c61a" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="78ba4a1adf3cfd2504c2d570247ccd54a38dc6c93cb2f3461cf62e4a8368a814">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="0818d34e4e0677997a83067c3b9790ae8d6e7889432d66f85a934d142450ce6e">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="8b8b8b4a72a4aa8581f2d90feb1452ef6be550652c53ad46b5dce8413e6ac266">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="456b9a65a0b5b0be44b1df6db562eb2a870c8ff389f0ade19d11ef78c6992045" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="0603a89d682dc225f25050258dd755d5d62d43230290b4564856d09fef4ce775">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1621,11 +1621,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="5d15fc1f5373367a375ea12c2f10714a05267c0e68c46a0823aec43333984467">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="bb311899a8334f5c7b71052488f740ade582a2e20a59c486f755c9ac1a795b42">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="b4d3ee99fc37d5d508e209dfa4b930a49615d023a4b997c34cd3edb93faef0dd">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="7cfafe5a49bbeb9edea4f130ed1fbbe7d1ba44f30cbf58c67f4e366f20e67444">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%233/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="5019f2cdfe2bcac017d8ea79f3fee71a525ab978ba22df9f4b2312c7578bfa4b">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="c01bf45bd9b3736b314db6062591ec9f4212be370a4e517dc07adc8649f7704a">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="282f2cf59e022cd09d0c0fb0c5353f2c719effd97ddbc06bf591c77fefed821a">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="03012aaa306653371bc4d557acfe6f40c45dec046a85853bacf9777117196aa7">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="800e3490485cdc1592de7fe3378f417a1585b246e1ff16053890ef6408fbdf85">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/TeemPresents/HomeWorkSkillbox/blob/main/task-7%239/img/about-icon-2.svg&quot;,&quot;user_id&quot;:89810430}}" data-hydro-click-hmac="9082f8d1e683818561cf939c9796cd4bc1c925b1d7353e5d3181732a71ed5ce6">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
