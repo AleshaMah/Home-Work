@@ -431,7 +431,7 @@
     align-items: flex-end;
     padding-bottom: 34px;
     padding-left: 53px;
-    background-image: url("../img/accommodation-img-9.jpg");
+    background-image: url("../img/accommodation-img-9.jpeg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -539,7 +539,7 @@
   .contacts-content {
     padding: 45px;
     border-radius: 15px;
-    background-image: url("../img/contacts-bg.jpg");
+    background-image: url("../img/contacts-bg.jpeg");
     background-repeat: no-repeat;
     background-position: right 47px center;
     background-color: var(--white-color);
