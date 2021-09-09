@@ -6,11 +6,49 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JS</title>
+    <style>
+        .menu {
+            position: absolute;
+            z-index: 10;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: 400px;
+            padding: 40px;
+            background-color: #f2f2f2;
+            transition: transform .3s ease-in-out;
+            transform: translateX(-101%);
+        }
+
+        .menu.is-active {
+            transform: none;
+        }
+
+        .burger {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 40px;
+            height: 40px;
+            background-color: #f2f2f2;
+            border: 1px solid #333;
+            cursor: pointer;
+        }
+
+    </style>
+    <script src="../js_project_all/index.js"></script>
 </head>
 
 <body>
+ <div id="menu" class="menu is-active">
+     <ul>
+         <li>Menu 1</li>
+         <li>Menu 2</li>
+         <li>Menu 3</li>
+     </ul>
+ </div>
 
-    <script src="../js_project_all/index.js"></script>
+ <div id="burger"    class="burger"></div>
 </body>
 
 </html>
