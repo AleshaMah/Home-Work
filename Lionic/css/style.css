@@ -29,6 +29,7 @@
   }
 
 * {
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -60,8 +61,8 @@ html {
 
 .btn {
     display: inline-block;
-    padding: 12px 30px;
-    font-size: 16px;
+    padding: 15px 30px;
+    font-size: 15px;
     line-height: 1; 
     font-weight: 600;
     text-transform: uppercase;
@@ -75,7 +76,7 @@ html {
     padding: 20px 60px;
 }
 
-.text-center {
+.text-align {
     text-align: center;
 }
 
@@ -402,14 +403,28 @@ html {
 
 /* Form */
 
+.section-form {
+    padding-top: 115px;
+    padding-bottom: 110px;
+    border-bottom: 1px solid #e4e4e4;
+}
+
 .form-title {
     text-align: center;
+    margin-top: 0;
+    margin-bottom: 35px;
+    font-size: 35px;
+    line-height: 21px;
+    font-weight: 600;
+    color: #1c1c1c;
 }
 
 .form-description {
+    margin: 0;
     font-size: 16px;
-    line-height: 2;
+    line-height: 21px;
     text-align: center;
+    font-weight: 300;
     color: #787878;
 }
 
@@ -421,7 +436,7 @@ html {
 
 .input,
 .btn-submit {
-    flex: 0 0 calc(15% - 15px);
+    flex: 0 0 calc(25% - 15px);
     height: 60px;
     border-radius: 30px;
 }
